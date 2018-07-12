@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\opencv2.4.1\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\user\documents\visual studio 2013\projects\pattern_source1\pattern_source1\source.cpp(26): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2013\projects\pattern_source1\pattern_source1\source.cpp(125): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2013\projects\pattern_source1\pattern_source1\source.cpp(126): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2013\projects\pattern_source1\pattern_source1\source.cpp(141): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2013\projects\pattern_source1\pattern_source1\source.cpp(142): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  Pattern_source1.vcxproj -> C:\Users\user\Documents\Visual Studio 2013\Projects\Pattern_source1\Debug\Pattern_source1.exe
