@@ -1,6 +1,10 @@
 # Number_pattern_recognition
+number recognition using
 
-number recognition using c++ openCV ver.2.4
+## Dependencies
 
-*Input PNG file Path
+c++ openCV ver.2.4
+
+## Use To
+`Input PNG file Path`
 
